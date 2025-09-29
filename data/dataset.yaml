@@ -1,0 +1,11 @@
+path: .
+train: images/train
+val: images/val
+nc: 6
+names:
+  0: apple_Y5L_std_bbox
+  1: apple_manual_annot
+  2: apple_Y5L_trained_bbox
+  3: TB_manual_annot
+  4: TB_Y5L_std_bbox
+  5: TB_Y5L_trained_bbox
